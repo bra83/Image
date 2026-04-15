@@ -1,0 +1,6 @@
+{
+  "name": "PricePulse Brasil",
+  "description": "Uma ferramenta robusta de comparação de preços de produtos em múltiplos marketplaces brasileiros usando a IA Gemini com busca no Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
